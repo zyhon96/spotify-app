@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/spotify-app/static/css/main.3603e6d8.chunk.css",
+    "main.js": "/spotify-app/static/js/main.29eb4b6b.chunk.js",
+    "main.js.map": "/spotify-app/static/js/main.29eb4b6b.chunk.js.map",
+    "runtime-main.js": "/spotify-app/static/js/runtime-main.25a2f302.js",
+    "runtime-main.js.map": "/spotify-app/static/js/runtime-main.25a2f302.js.map",
+    "static/js/2.7718700a.chunk.js": "/spotify-app/static/js/2.7718700a.chunk.js",
+    "static/js/2.7718700a.chunk.js.map": "/spotify-app/static/js/2.7718700a.chunk.js.map",
+    "static/js/3.a9343fdc.chunk.js": "/spotify-app/static/js/3.a9343fdc.chunk.js",
+    "static/js/3.a9343fdc.chunk.js.map": "/spotify-app/static/js/3.a9343fdc.chunk.js.map",
+    "index.html": "/spotify-app/index.html",
+    "static/css/main.3603e6d8.chunk.css.map": "/spotify-app/static/css/main.3603e6d8.chunk.css.map",
+    "static/js/2.7718700a.chunk.js.LICENSE.txt": "/spotify-app/static/js/2.7718700a.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/spotify-app/static/media/GothamMedium.0a910c0b.ttf",
+    "static/media/heart.c31d61db.svg": "/spotify-app/static/media/heart.c31d61db.svg",
+    "static/media/home.00248e5c.svg": "/spotify-app/static/media/home.00248e5c.svg",
+    "static/media/library.08cfff2f.svg": "/spotify-app/static/media/library.08cfff2f.svg",
+    "static/media/note.49e6a279.svg": "/spotify-app/static/media/note.49e6a279.svg",
+    "static/media/play.1b1e3791.svg": "/spotify-app/static/media/play.1b1e3791.svg",
+    "static/media/search.ece26af6.svg": "/spotify-app/static/media/search.ece26af6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25a2f302.js",
+    "static/js/2.7718700a.chunk.js",
+    "static/css/main.3603e6d8.chunk.css",
+    "static/js/main.29eb4b6b.chunk.js"
+  ]
+}
